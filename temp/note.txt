@@ -1,0 +1,1 @@
+I include this folder in the code repository only because it's the default location for the output of some of the experiments.
